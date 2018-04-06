@@ -14,3 +14,4 @@ sha1sum:
 727c1be787a89c4e47a95a9212ff5fcdc6c92b9f
 
 https://www.facebook.com/KursusKomputerSelangor/
+https://www.facebook.com/kursuskomputerselangor/photos/a.411475372560357.1073741845.309602412747654/411477555893472/
